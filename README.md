@@ -1,2 +1,2 @@
 # class6-homework
-See instructions below
+I used the cancer_pairplot.png to determine whcih features had the most correlation. I determined that the Radius comparison to the Perimeter and Area for the Malignant or Benign diagnosis. Then I used the multifeature scatter plot to further see the corelation be tween the radius and more features. My findings indicated for example that the perimeter and area have a higher reading on samples that indicated malignancy.
